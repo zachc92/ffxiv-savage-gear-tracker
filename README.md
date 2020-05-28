@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a gear tracking app mainly for use by statics. It will allow you to neatly keep 
+track of who wins what loot, as well as quickly telling you how many pieces of gear each player has
+won. 
+
+I will begin adding more functionality once the basic gear tracking is finished.
+
 
 ## Available Scripts
 
