@@ -31,3 +31,25 @@ body {
     width: 75%;
     border-color: #0984e3;
 }
+
+/*          */
+/*  Content */
+/*          */
+
+.content {
+    margin-top: 3.5%;
+}
+
+.loot-week-header-divide {
+    width: 20%;
+    border-color: #0984e3;
+}
+
+.weeks-display {
+    width: 75%;
+    margin: 0 auto 0 auto !important;
+}
+
+.first-col {
+    border-right: solid 1px #0984e3;
+}
